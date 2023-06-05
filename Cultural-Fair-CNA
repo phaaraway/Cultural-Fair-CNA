@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Cultural Fair</title>
+</head>
+
+<body>
+    <nav>
+        <div class="content">
+            <div class="container1-nav">
+                <h1 class="footer">
+                    Cultural Fair - Inter 1
+                </h1>
+                <div class="logo-cna">
+                    <img src="logo-cna (1).svg" alt="">
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div class="container1-main">
+            <h2>What is Christimas?</h2>
+            <p>
+                Christmas is a joyous holiday celebrated globally.
+It commemorates the birth of Jesus Christ and symbolizes love and unity.
+Families come together to exchange gifts and share festive meals.
+The season is filled with colorful decorations, carols, and acts of kindness.
+It is a time to embrace the spirit of giving, spread cheer, and cherish cherished moments with loved ones.
+            </p>
+        </div>
+    </main>
+    <section>
+        <div class="container2">
+            <div class="container-item2"></div>
+            <div class="container-item2"></div>
+            <div class="container-item2"></div>
+            <div class="container-item2"></div>
+            <div class="container-item2"></div>
+        </div>
+    </section>
+</body>
+
+</html>
